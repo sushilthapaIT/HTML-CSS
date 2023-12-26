@@ -1,0 +1,58 @@
+/* css reset */
+body, h1, img {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body{
+    background-color: rgb(72, 228, 72);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+img{
+    margin-left: 40%;
+}
+
+p{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: larger;
+}
+
+h2{
+    margin-left: 5%;
+    font-size: 30px;
+}
+
+.content{
+    padding: 20px;
+    background-color: aqua;
+    margin-top: 50px;
+    margin-right: 200px;
+    margin-left: 200px;
+    box-shadow: 20px 20px 20px #52d8cd;
+}
+
+h4{
+    font-size: 30px;
+    font-style: oblique;
+    text-shadow: 5px 5px 10px red;
+    text-align: center;
+}
+
+.center{
+    font-size: 32px;
+    text-align: justify;
+}
+
+.down{
+    font-size: 30px;
+    color: red;
+}
